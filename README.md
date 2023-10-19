@@ -1,5 +1,3 @@
-# rish
-git profile page
 ![logo](https://github.com/rish-99/rish/blob/main/4182a9dd330c6442c4a1fbc78274d838.jpg)
 <h1 align="center">Hi 👋, I'm Risini Methmini</h1>
 <h3 align="center">Full-Stack Developer | University Of Moratuwa | IT Undergraduate</h3>
