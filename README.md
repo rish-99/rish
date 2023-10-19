@@ -1,5 +1,6 @@
 # rish
 git profile page
+![logo]()
 <h1 align="center">Hi 👋, I'm Risini Methmini</h1>
 <h3 align="center">Full-Stack Developer | University Of Moratuwa | IT Undergraduate</h3>
 
